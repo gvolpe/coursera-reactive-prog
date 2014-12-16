@@ -4,3 +4,6 @@
 .settings/
 .worksheet/
 bin/
+.idea/
+coursera-reactive-prog.iml
+out/
